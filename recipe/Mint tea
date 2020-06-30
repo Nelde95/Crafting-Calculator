@@ -1,0 +1,24 @@
+4x Cup of mint tea
+$time = 10
+* Pour tea into cups
+> 4x Teacup
+> 1x Pot of mint tea
+
+1x Pot of mint tea
+* Put tea and water into pot
+* Wait for water to absorb tea
+$time = 30
+> 1x Pot
+> 1x Hot water
+> 10x Mint leaf
+
+1x Hot water
+* Boil water
+$time = 120
+> 1x Water
+> 1x Kettle
+
+10x Mint leaf
+* Pluck leaves from plant
+$time = 3
+> 1x Mint plant
