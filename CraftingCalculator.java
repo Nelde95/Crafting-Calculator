@@ -1,26 +1,3 @@
-/* example recipe file:
-1x Undyed Hempen Cloth
-$time = 1
-* Weaving
-> 2x Hempen Yarn
-> 1x Lightning Shard
-
-2x Hempen Yarn
-$time = 1
-* Weaving
-> 2x Moko Grass
-> 1x Lightning Shard
-
-1x Moko Grass
-$time = 2
-* Harvesting
-*/
-
-/* example crafting list:
-50x Undyed Hempen Cloth
-1x Hempen Yarn
-*/
-
 import java.io.File;
 import java.util.Scanner;
 
